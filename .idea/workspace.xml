@@ -189,11 +189,6 @@
             <path>
               <item name="PO模式" type="b2602c69:ProjectViewProjectNode" />
               <item name="PO模式" type="462c0819:PsiDirectoryNode" />
-              <item name="Report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PO模式" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PO模式" type="462c0819:PsiDirectoryNode" />
               <item name="Scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -206,6 +201,7 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -283,6 +279,14 @@
       <option name="presentableId" value="Default" />
       <updated>1542765984944</updated>
     </task>
+    <task id="LOCAL-00001" summary="diyici">
+      <created>1543130259449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543130259449</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -317,7 +321,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="diyici" />
+    <option name="LAST_COMMIT_MESSAGE" value="diyici" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
