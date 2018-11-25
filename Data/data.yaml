@@ -1,0 +1,14 @@
+aike_login_test001:
+  username: 18931735725
+  password: 123456
+  expect_toast: 账号不存在
+aike_login_test002:
+  uesername:
+  password: 234567
+  expect_toast: 请输入手机号！
+
+
+
+
+
+
