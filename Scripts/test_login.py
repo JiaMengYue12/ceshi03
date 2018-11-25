@@ -22,6 +22,7 @@ class TestLogin():
     def teardown_class(self):
         self.aike.driver.quit()
 
+
     # 测试方法
     def test_login01(self,username=18672090992,pwd=123456):
         self.aike.page_input_username(username)
